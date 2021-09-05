@@ -1,0 +1,172 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    font-family:  sans-serif;
+}
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.block__one{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 4px;
+}
+.block__left{
+    width: 50%;
+}
+.block__right{
+    width: 45%;
+}
+.input__line{
+    width: 500px;
+    border: none;
+    border-bottom: 1px solid black;
+    margin-top: 35px;
+}
+.block__size{
+    font-size: 16px;
+}
+.input__one{
+    width: 500px;
+    border: none;
+    border-bottom: 1px solid black;
+    margin-top: 5px;
+}
+.input__two{
+    width: 500px;
+    border: none;
+    border-bottom: 1px solid black;
+    margin-top: 30px;
+}
+.input__three{
+    width: 500px;
+    border: none;
+    border-bottom: 1px solid black;
+    margin-top: 15px;
+}
+.input__four{
+    margin-top: 20px;
+    width: 500px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+.input__five{
+    width: 500px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+.input__six{
+    width: 500px;
+    border: none;
+    border-bottom: 1px solid black;
+    margin-top: 20px;
+}
+.input__seven{
+    width: 500px;
+    border: none;
+    border-bottom: 1px solid black;
+    margin-top: 0px;
+}
+.input__eaght{
+    width: 500px;
+    border: none;
+    border-bottom: 1px solid black;
+    margin-top: 30px;
+}
+.yesor__no{
+    margin-right: -40px;
+}
+ul li{
+    list-style: none;
+}
+.li__before{
+    font-size: 16px;
+}
+.before__cyrillic::before{
+    content: "a)  ";
+    font-weight: bold;
+    margin-left: -18px;
+}
+.input__nine{
+    width: 500px;
+    border: none;
+    border-bottom: 1px solid black;
+    margin-top: 15px;
+}
+.input__nine:nth-child(1){
+    margin-top: 10px;
+}
+.ul__one{
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+.before__cyrilli::before{
+    content: "b)  ";
+    font-weight: bold;
+    margin-left: -18px;
+}
+.input__ninene{
+    width: 500px;
+    border: none;
+    border-bottom: 1px solid black;
+    margin-top: 17px;
+}
+.input__ninene:nth-child(1){
+    margin-top: 5px;
+}
+.line__height{
+    line-height: 20px;
+}
+.top{
+    margin-top: 42px;
+}
+.input__ten__one{
+    width: 500px;
+    border: none;
+    border-bottom: 1px solid black;
+    margin-top: 60px;
+}
+.input__ten__two{
+    width: 500px;
+    border: none;
+    border-bottom: 1px solid black;
+    margin-top: 25px;
+}
+.border__line{
+    border-bottom: 2px solid black;
+}
+.p__rigth{
+    margin-left: 40px;
+}
+.input__11{
+    width: 500px;
+    border: none;
+    border-bottom: 1px solid black;
+    margin-top: 60px;
+}
+.input__12{
+    width: 500px;
+    border: none;
+    border-bottom: 1px solid black;
+    margin-top: 25px;    
+}
+.input__13{
+    width: 500px;
+    border: none;
+    border-bottom: 1px solid black;
+    margin-top: 25px;
+}
+.top__best{
+    margin-top: 42px;
+}
